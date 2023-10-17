@@ -35,6 +35,8 @@ class FusionDataset(Dataset):
         self.hflip = torchvision.transforms.RandomHorizontalFlip(p=1.1)
         self.vflip = torchvision.transforms.RandomVerticalFlip(p=1.1)
 
+        self.new_size_test = (480, 480)
+
         if split == 'train':
             data_dir_vis = vi_path
             data_dir_ir = ir_path

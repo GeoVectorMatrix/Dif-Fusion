@@ -45,8 +45,8 @@ if __name__ == "__main__":
             print("Creating train dataloader.")
             train_dataset = FD(split='train',
                                crop_size=dataset_opt['resolution'],
-                               ir_path='/root_to_ir_images/',
-                               vi_path='/root_to_vis_images/',
+                               ir_path='Path_IR',
+                               vi_path='Path_VIS',
                                is_crop=True)
             print("the training dataset is length:{}".format(train_dataset.length))
             train_loader = DataLoader(

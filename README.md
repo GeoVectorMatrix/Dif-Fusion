@@ -2,7 +2,7 @@
 This is Pytorch implementation for “Dif-Fusion: Towards High Color Fidelity in Infrared and Visible Image Fusion with Diffusion Models” 
 
 ## Overview
-![teaser](framework.png)
+![teaser](Framework.png)
 The overall framework for Dif-Fusion
 ## Fusion examples
 ![teaser](Examples.png)

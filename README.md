@@ -21,6 +21,8 @@ If there are trained models, set paths to these files in xxxx.json.
 - The trained weights can be downloaded from:  https://pan.baidu.com/s/1zOz9LRQsSnM1TDF7yYvXIw 
 Password: q17w
 
+  Or: https://drive.google.com/drive/folders/1tmllPpxXmyXgfQ1A8M1fvVZIe7D5gsa2?usp=sharing
+
 - The datasets can be downloaded from: https://github.com/Linfeng-Tang/Image-Fusion
 
 - For the codebase, please refer to: https://github.com/wgcban/ddpm-cd 
